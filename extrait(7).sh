@@ -1,0 +1,1 @@
+python3 ~/phish/send_campaign.py facebook victim@example.com

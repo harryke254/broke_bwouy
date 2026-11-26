@@ -1,0 +1,7 @@
+~/tools/sherlock/            username enumeration
+~/tools/whatsmyname/
+~/tools/evilginx/            proxy phishlets + sessions
+~/tools/osint_user.py        aggregator
+~/osint/<username>/          per-handle JSON reports
+~/phish/templates/*.html     cloned emails
+/var/www/html/phish/<net>/   cloned landing pages + captured.log

